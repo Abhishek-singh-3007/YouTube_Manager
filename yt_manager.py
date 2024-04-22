@@ -43,7 +43,7 @@ def update_video(videos):
         print("Invalid index Selected ")
 
 
-def delete_video_video(videos):
+def delete_video(videos):
     all_videos(videos)
     index = int(input("Enter the index of the video want to be delete "))
 
